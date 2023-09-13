@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4e86c4&height=200&section=header&text=Jimmy's%20Github!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4e86c4&height=200&section=header&text=Jimmy's%20Github!&fontSize=80" />
 
 ### 하드웨어가 아닌 소프트웨어를 만드는 iOS Developer 정준영입니다
 </br>
