@@ -1,7 +1,9 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4e86c4&height=200&section=header&text=Jimmy's%20Github!&fontSize=80" />
 
-### 하드웨어가 아닌 소프트웨어를 만드는 iOS Developer 정준영입니다
+### 같이 일하고 싶은 동료가 되기 위해 노력하는 개발자
+### 기술 선택에 대한 명확한 이유를 고민하는 개발자
+
 </br>
 
 [![min0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jimmy-Jung&show_icons=true&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
