@@ -14,6 +14,8 @@
 		<img src="https://img.shields.io/badge/개발블로그-2f6098?style=flat&logo=tistory&logoColor=white" />
 <a href="https://apps.apple.com/kr/app/%EB%8B%AC%EB%9F%AC%EB%AA%A8%EC%95%84-%EB%8B%AC%EB%9F%AC%ED%88%AC%EC%9E%90-%ED%95%84%EC%88%98%EC%95%B1/id6449301429">
 		<img src="https://img.shields.io/badge/달러모아-295485?style=flat&logo=appstore&logoColor=white" />
+<a href="https://apps.apple.com/kr/app/%EC%A7%90%ED%95%8F-%EC%9A%B4%EB%8F%99-%EA%B8%B0%EB%A1%9D-%ED%95%84%EC%88%98%EC%95%B1/id6470066708">
+ 		<img src="https://img.shields.io/badge/짐핏-295485?style=flat&logo=appstore&logoColor=white" />
 </div>
 
 
